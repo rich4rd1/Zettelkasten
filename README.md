@@ -32,7 +32,8 @@ Enumeração
 1. **Bibliográficas** 
 	- Toda ideia ou informação que quero armazenar, mas que não são de minha autoria	
 	- Será a primeira ficha que iremos elaborar
-	![[01 - cartão-bibliográfico.png]]
+	![01 - cartão-bibliográfico](https://github.com/user-attachments/assets/0f3cc913-6213-46ca-93d7-9f1441b42db7)
+
 --- 
 2. **Permanentes** 
 	- Sejam ideias originais minhas, meus pensamentos, aquilo que eu mesmo entendi e  desenvolvi
@@ -40,10 +41,12 @@ Enumeração
 	- Referencia
 	- Relações, ou seja todas as outras notas que essa irá se relacionar
 	- Por fim, a nota por si, de preferência de maneira formal, assim, caso precise consultar ou até citar esse conhecimento, ele já estará organizado e bem escrito.
-	![[03 - Cartão-permanente.png]]
+	![03 - Cartão-permanente](https://github.com/user-attachments/assets/8c5d105d-164d-4f60-828f-9fcb57637488)
+
 ---
 3. **Índices**
 - Essas notas serão responsáveis por organizar as outras notas das caixas
 - Citar bibliografia, ou seja todas as notas bibliográficas que se interligam com esse tema
 - Notas permanentes que já elaborei que tem a ver com esse tema, idealmente colocar apenas a nota principal, já que as outras estarão interligadas com essa principal.
-    ![[02 - cartão-índice.png]]
+    ![02 - cartão-índice](https://github.com/user-attachments/assets/74ee7895-aa50-4370-a9db-00cf000441d4)
+
