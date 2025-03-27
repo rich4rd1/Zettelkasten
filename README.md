@@ -45,8 +45,13 @@ Enumeração
 
 ---
 3. **Índices**
-- Essas notas serão responsáveis por organizar as outras notas das caixas
-- Citar bibliografia, ou seja todas as notas bibliográficas que se interligam com esse tema
-- Notas permanentes que já elaborei que tem a ver com esse tema, idealmente colocar apenas a nota principal, já que as outras estarão interligadas com essa principal.
-    ![02 - cartão-índice](https://github.com/user-attachments/assets/74ee7895-aa50-4370-a9db-00cf000441d4)
+	- Essas notas serão responsáveis por organizar as outras notas das caixas
+	- Citar bibliografia, ou seja todas as notas bibliográficas que se interligam com esse tema
+	- Notas permanentes que já elaborei que tem a ver com esse tema, idealmente colocar apenas a nota principal, já que as outras estarão interligadas com essa principal.
+    	![02 - cartão-índice](https://github.com/user-attachments/assets/74ee7895-aa50-4370-a9db-00cf000441d4)
+
+4. **Referências**
+	- https://youtu.be/lBFiqLEIPDY?si=NWYYaQgxCDcHF0zN
+ 	- https://youtu.be/Q7LuaSyJM7o?si=CVaqmdbB4y-ww9kU 	 
+
 
