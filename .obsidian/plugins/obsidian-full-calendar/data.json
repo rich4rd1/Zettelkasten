@@ -1,0 +1,16 @@
+{
+  "calendarSources": [
+    {
+      "type": "ical",
+      "color": "hsl(258, 88%, 66%)",
+      "url": "https://calendar.google.com/calendar/ical/kaua.cavalcante773%40gmail.com/private-e02a2626b553a19c1a87d55dc398c80e/basic.ics"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": false
+}

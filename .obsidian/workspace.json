@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "6450d70d7108c1ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "46e886d8797a1945",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45b2f8bb09fbfe93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - REFERÊNCIA/1 - 2025-03-26-19-31 GIT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 - 2025-03-26-19-31 GIT"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "92bf3b3448da7c64",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f4749fb21e3cc5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48d3dc34189c820d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "ebc304f28817391a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "7470a4b68213effb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 213.5
+  },
+  "right": {
+    "id": "2660f2326c95629b",
+    "type": "split",
+    "children": [
+      {
+        "id": "da6e5f6ae04ed1f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d3003294d22c2fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "04 - TASK/26-03-2025.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 26-03-2025"
+            }
+          },
+          {
+            "id": "408027ab1125bf09",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02 - REFERÊNCIA/2 - 2025-03-24-21-43 Fixe o Conhecimento.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para 2 - 2025-03-24-21-43 Fixe o Conhecimento"
+            }
+          },
+          {
+            "id": "befc807a49627ef4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f1f124401cdaf5a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02 - REFERÊNCIA/2 - 2025-03-24-21-43 Fixe o Conhecimento.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de 2 - 2025-03-24-21-43 Fixe o Conhecimento"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-full-calendar:Open Full Calendar": false
+    }
+  },
+  "active": "45b2f8bb09fbfe93",
+  "lastOpenFiles": [
+    "02 - REFERÊNCIA/2 - 2025-03-24-21-43 Fixe o Conhecimento.md",
+    "04 - TASK/26-03-2025.md",
+    "05 - Livros/Sistemas de Bancos de Dados/Hormess, Markus_ Lawrence, Adam_ Schneider, Jakob_ Stickdorn, Marc - This is service design doing _ applying service design thinking in the real world _ a practitioner’s handbook-O’Reilly Media (2018).pdf",
+    "05 - Livros/Sistemas de Bancos de Dados/Database Modeling and Design(Z-Lib.io).pdf",
+    "05 - Livros/Sistemas de Bancos de Dados/C. J. Date - Introdução a Sistemas de Bancos de Dados (2016, Elsevier Editora Ltda.) - libgen.li.pdf",
+    "05 - Livros/Sistemas de Bancos de Dados",
+    "05 - Livros/Nova pasta",
+    "02 - REFERÊNCIA/1 - 2025-03-26-19-31 GIT.md",
+    "01 - ÍNDICES/1 - TECNOLOGIA.md",
+    "01 - ÍNDICES/2 - METODOLOGIA DE ESTUDO.md",
+    "00 - INSTRUÇÕES/00 - Nota de Instrução.md",
+    "Sem título.md",
+    "05 - Livros/Fundamentos e Arquitetura de Computadores/Digital Design and Computer Architecture_ RISC-V Edition(Z-Lib.io).pdf",
+    "05 - Livros/Fundamentos e Arquitetura de Computadores/(The Morgan Kaufmann Series in Computer Architecture and Design, 6, 2020) David A. Patterson, John L. Hennessy - Computer Organization and Design MIPS Edition_ The Hardware_Software Interface, Sixth E.pdf",
+    "04 - TASK/Checklist Diário.md",
+    "05 - Livros/Fundamentos e Arquitetura de Computadores",
+    "05 - Livros",
+    "03 - PERMANENTES/2 - 2025-03-24-21-59 - EXEMPLO (MODIFICAR DPS).md",
+    "04 - TASK",
+    "Daily-Task.md",
+    "01 - ÍNDICES/3 - SEGURANÇA DA INFORMAÇÃO.md",
+    "00 - INSTRUÇÕES/Sem título.md",
+    "2025-03-24.md",
+    "Sem título.canvas",
+    "00 - INSTRUÇÕES/03 - Cartão-permanente.png",
+    "00 - INSTRUÇÕES/02 - cartão-índice.png",
+    "00 - INSTRUÇÕES/01 - cartão-bibliográfico.png",
+    "instruções 1/Nota de Instrução.md",
+    "instruções 1/cartão-índice.png",
+    "instruções 1/Cartão-permanente.png",
+    "instruções 1/cartão-bibliográfico.png",
+    "Bem-vindo.md"
+  ]
+}
