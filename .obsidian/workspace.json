@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "46e886d8797a1945",
+        "id": "4839c6d933d1309f",
         "type": "tabs",
         "children": [
           {
-            "id": "45b2f8bb09fbfe93",
+            "id": "74313f2f5c45712c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - REFERÊNCIA/1 - 2025-03-26-19-31 GIT.md",
+                "file": "02 - REFERÊNCIA/6 - 2025-03-26-19-54 Aula 01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - 2025-03-26-19-31 GIT"
+              "title": "6 - 2025-03-26-19-54 Aula 01"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - TASK/26-03-2025.md",
+                "file": "02 - REFERÊNCIA/6 - 2025-03-26-19-54 Aula 01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 26-03-2025"
+              "title": "Links inversos para 6 - 2025-03-26-19-54 Aula 01"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - REFERÊNCIA/2 - 2025-03-24-21-43 Fixe o Conhecimento.md",
+                "file": "02 - REFERÊNCIA/6 - 2025-03-26-19-54 Aula 01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para 2 - 2025-03-24-21-43 Fixe o Conhecimento"
+              "title": "Links de saída para 6 - 2025-03-26-19-54 Aula 01"
             }
           },
           {
@@ -173,26 +173,32 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "45b2f8bb09fbfe93",
+  "active": "48d3dc34189c820d",
   "lastOpenFiles": [
-    "README.md",
-    "01 - ÍNDICES/1 - TECNOLOGIAS.md",
-    "02 - REFERÊNCIA/5 - 2025-03-26-23-48 Aula 00.md",
-    "02 - REFERÊNCIA/4 - 2025-03-26-23-26 Aula 00.md",
+    "06 - Imagens",
+    "06 - Imagens/Pasted image 20250327223019.png",
+    "01 - ÍNDICES/6 - SISTEMAS DE BANCOS DE DADOS.md",
+    "01 - ÍNDICES/5 - TESTES DE SOFTWARE.md",
     "01 - ÍNDICES/4 - ESTRUTURA DE DADOS.md",
     "01 - ÍNDICES/3 - SEGURANÇA DA INFORMAÇÃO.md",
     "01 - ÍNDICES/2 - METODOLOGIA DE ESTUDO.md",
-    "01 - ÍNDICES/5 - TESTES DE SOFTWARE.md",
+    "01 - ÍNDICES/1 - TECNOLOGIAS.md",
+    "01 - ÍNDICES/0 - NOME-ASSUNTO - TEMPLATE.md",
+    "README.md",
+    "02 - REFERÊNCIA/0 - XXXX-XX-XX-XX-XX TAMPLATE.md",
+    "02 - REFERÊNCIA/6 - 2025-03-26-19-54 Aula 01.md",
+    "04 - TASK/27-03-2025.md",
+    "02 - REFERÊNCIA/1 - 2025-03-26-19-31 GIT.md",
+    "04 - TASK/26-03-2025.md",
+    "02 - REFERÊNCIA/5 - 2025-03-26-23-48 Aula 00.md",
+    "02 - REFERÊNCIA/4 - 2025-03-26-23-26 Aula 00.md",
     "5 - T.md",
     "05 - Livros/Testes de Software",
-    "04 - TASK/26-03-2025.md",
     "02 - REFERÊNCIA/2 - 2025-03-24-21-43 Fixe o Conhecimento.md",
-    "Sem título.md",
     "05 - Livros/Metodologias de Estudo/Peter C. Brown_ Henry L. Roediger III_ Mark A. McDaniel - Fixe o conhecimento_ a ciência da aprendizagem bem-sucedida-Penso Editora _ Grupo A (2018) (1) 1.epub",
     "05 - Livros/Fundamentos e Arquitetura de Computadores/Digital Design and Computer Architecture_ RISC-V Edition(Z-Lib.io).pdf",
     "05 - Livros/Fundamentos e Arquitetura de Computadores/(The Morgan Kaufmann Series in Computer Architecture and Design, 6, 2020) David A. Patterson, John L. Hennessy - Computer Organization and Design MIPS Edition_ The Hardware_Software Interface, Sixth E.pdf",
     "05 - Livros/Metodologias de Estudo/Sem título.md",
-    "02 - REFERÊNCIA/1 - 2025-03-26-19-31 GIT.md",
     "03 - PERMANENTES/2 - 2025-03-24-21-59 - EXEMPLO (MODIFICAR DPS).md",
     "05 - Livros/Metodologias de Estudo/Peter C. Brown_ Henry L. Roediger III_ Mark A. McDaniel - Fixe o conhecimento_ a ciência da aprendizagem bem-sucedida-Penso Editora _ Grupo A (2018) (1).epub",
     "05 - Livros/Metodologias de Estudo",
@@ -212,7 +218,6 @@
     "instruções 1/Nota de Instrução.md",
     "instruções 1/cartão-índice.png",
     "instruções 1/Cartão-permanente.png",
-    "instruções 1/cartão-bibliográfico.png",
-    "Bem-vindo.md"
+    "instruções 1/cartão-bibliográfico.png"
   ]
 }
