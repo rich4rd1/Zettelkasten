@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4839c6d933d1309f",
+        "id": "ad6f0bf4d7d8c968",
         "type": "tabs",
         "children": [
           {
-            "id": "74313f2f5c45712c",
+            "id": "5459bcc4df76c104",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - REFERÊNCIA/6 - 2025-03-26-19-54 Aula 01.md",
+                "file": "02 - REFERÊNCIA/6 - 2025-04-14-12-45 Tópicos de revisão até aula 09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6 - 2025-03-26-19-54 Aula 01"
+              "title": "6 - 2025-04-14-12-45 Tópicos de revisão até aula 09"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 310.5
   },
   "right": {
     "id": "2660f2326c95629b",
@@ -173,51 +173,54 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "48d3dc34189c820d",
+  "active": "5459bcc4df76c104",
   "lastOpenFiles": [
+    "Pasted image 20250414175631.png",
+    "Pasted image 20250414175529.png",
+    "Pasted image 20250414175221.png",
+    "Pasted image 20250414175204.png",
+    "Pasted image 20250414175131.png",
+    "04 - TASK/14-04-2025.md",
+    "02 - REFERÊNCIA/6 - 2025-04-14-12-45 Tópicos de revisão até aula 09.md",
+    "Pasted image 20250414154102.png",
+    "Pasted image 20250414153707.png",
+    "02 - REFERÊNCIA/6 - 2025-03-31-18-25 MER & DER.md",
+    "03 - PERMANENTES/2 - 2025-03-24-21-59 - EXEMPLO (MODIFICAR DPS).md",
+    "01 - ÍNDICES/6 - SISTEMAS DE BANCOS DE DADOS.md",
+    "02 - REFERÊNCIA/0 - XXXX-XX-XX-XX-XX TEMPLATE.md",
+    "02 - REFERÊNCIA/5 - 2025-04-13-15-39 Estudo individual.md",
+    "01 - ÍNDICES/0 - NOME-ASSUNTO - TEMPLATE.md",
+    "02 - REFERÊNCIA/5 - 2025-03-26-23-48 Aula 00.md",
+    "01 - ÍNDICES/5 - TESTES DE SOFTWARE.md",
+    "04 - TASK/13-04-2025.md",
+    "02 - REFERÊNCIA/7 - 2025-03-31-15-37 ATi 2.md",
+    "01 - ÍNDICES/7 - INTERAÇÃO HUMANO COMPUTADOR.md",
+    "04 - TASK/08-04-2025.md",
+    "04 - TASK/07-04-2025.md",
+    "02 - REFERÊNCIA/3 - 2025-04-06-13-08 introduction to Cybersecurity (CISCO).md",
+    "01 - ÍNDICES/3 - SEGURANÇA DA INFORMAÇÃO.md",
+    "04 - TASK/05-04-2025.md",
+    "01 - ÍNDICES/2 - METODOLOGIA DE ESTUDO.md",
+    "04 - TASK/03-04-2025.md",
+    "04 - TASK/01-04-2025.md",
+    "02 - REFERÊNCIA/6 - 2025-03-31-21-30 Aula 02.md",
+    "02 - REFERÊNCIA/6 - 2025-03-26-19-54 Aula 01.md",
+    "02 - REFERÊNCIA/1 - 2025-03-26-19-31 GIT.md",
+    "01 - ÍNDICES/1 - TECNOLOGIAS.md",
     "06 - Imagens",
     "06 - Imagens/Pasted image 20250327223019.png",
-    "01 - ÍNDICES/6 - SISTEMAS DE BANCOS DE DADOS.md",
-    "01 - ÍNDICES/5 - TESTES DE SOFTWARE.md",
-    "01 - ÍNDICES/4 - ESTRUTURA DE DADOS.md",
-    "01 - ÍNDICES/3 - SEGURANÇA DA INFORMAÇÃO.md",
-    "01 - ÍNDICES/2 - METODOLOGIA DE ESTUDO.md",
-    "01 - ÍNDICES/1 - TECNOLOGIAS.md",
-    "01 - ÍNDICES/0 - NOME-ASSUNTO - TEMPLATE.md",
-    "README.md",
-    "02 - REFERÊNCIA/0 - XXXX-XX-XX-XX-XX TAMPLATE.md",
-    "02 - REFERÊNCIA/6 - 2025-03-26-19-54 Aula 01.md",
-    "04 - TASK/27-03-2025.md",
-    "02 - REFERÊNCIA/1 - 2025-03-26-19-31 GIT.md",
-    "04 - TASK/26-03-2025.md",
-    "02 - REFERÊNCIA/5 - 2025-03-26-23-48 Aula 00.md",
-    "02 - REFERÊNCIA/4 - 2025-03-26-23-26 Aula 00.md",
-    "5 - T.md",
     "05 - Livros/Testes de Software",
-    "02 - REFERÊNCIA/2 - 2025-03-24-21-43 Fixe o Conhecimento.md",
     "05 - Livros/Metodologias de Estudo/Peter C. Brown_ Henry L. Roediger III_ Mark A. McDaniel - Fixe o conhecimento_ a ciência da aprendizagem bem-sucedida-Penso Editora _ Grupo A (2018) (1) 1.epub",
     "05 - Livros/Fundamentos e Arquitetura de Computadores/Digital Design and Computer Architecture_ RISC-V Edition(Z-Lib.io).pdf",
     "05 - Livros/Fundamentos e Arquitetura de Computadores/(The Morgan Kaufmann Series in Computer Architecture and Design, 6, 2020) David A. Patterson, John L. Hennessy - Computer Organization and Design MIPS Edition_ The Hardware_Software Interface, Sixth E.pdf",
-    "05 - Livros/Metodologias de Estudo/Sem título.md",
-    "03 - PERMANENTES/2 - 2025-03-24-21-59 - EXEMPLO (MODIFICAR DPS).md",
     "05 - Livros/Metodologias de Estudo/Peter C. Brown_ Henry L. Roediger III_ Mark A. McDaniel - Fixe o conhecimento_ a ciência da aprendizagem bem-sucedida-Penso Editora _ Grupo A (2018) (1).epub",
     "05 - Livros/Metodologias de Estudo",
     "00 - INSTRUÇÕES/01 - cartão-bibliográfico.png",
-    "00 - INSTRUÇÕES/00 - Nota de Instrução.md",
     "05 - Livros/Sistemas de Bancos de Dados/Hormess, Markus_ Lawrence, Adam_ Schneider, Jakob_ Stickdorn, Marc - This is service design doing _ applying service design thinking in the real world _ a practitioner’s handbook-O’Reilly Media (2018).pdf",
     "05 - Livros/Sistemas de Bancos de Dados/Database Modeling and Design(Z-Lib.io).pdf",
     "05 - Livros/Sistemas de Bancos de Dados/C. J. Date - Introdução a Sistemas de Bancos de Dados (2016, Elsevier Editora Ltda.) - libgen.li.pdf",
-    "05 - Livros/Sistemas de Bancos de Dados",
-    "04 - TASK/Checklist Diário.md",
-    "Daily-Task.md",
-    "00 - INSTRUÇÕES/Sem título.md",
-    "2025-03-24.md",
     "Sem título.canvas",
     "00 - INSTRUÇÕES/03 - Cartão-permanente.png",
-    "00 - INSTRUÇÕES/02 - cartão-índice.png",
-    "instruções 1/Nota de Instrução.md",
-    "instruções 1/cartão-índice.png",
-    "instruções 1/Cartão-permanente.png",
-    "instruções 1/cartão-bibliográfico.png"
+    "00 - INSTRUÇÕES/02 - cartão-índice.png"
   ]
 }

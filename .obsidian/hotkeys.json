@@ -1,0 +1,11 @@
+{
+  "obsidian-text-format:remove-citation-index": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": ";"
+    }
+  ]
+}

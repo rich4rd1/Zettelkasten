@@ -1,6 +1,18 @@
 {
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "smartIndentList": false,
-  "useTab": false
+  "smartIndentList": true,
+  "useTab": false,
+  "showLineNumber": false,
+  "foldIndent": true,
+  "foldHeading": true,
+  "showIndentGuide": true,
+  "autoConvertHtml": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

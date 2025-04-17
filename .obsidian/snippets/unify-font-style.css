@@ -1,0 +1,11 @@
+/* Snippet: Unifica visual de blocos de código com texto comum */
+
+.markdown-preview-view pre,
+.markdown-source-view pre,
+.cm-line.HyperMD-codeblock {
+  font-family: var(--font-text);
+  font-size: var(--font-text-size);
+  background: transparent;
+  border: none;
+  padding: 0;
+}
