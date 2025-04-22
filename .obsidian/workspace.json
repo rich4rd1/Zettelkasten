@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2d2b32bd3ca285fd",
+        "id": "6afb7fc39e5b4771",
         "type": "tabs",
         "children": [
           {
-            "id": "823bc122d7b5f1eb",
+            "id": "ceafde69a1a018b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "02 - REFERÊNCIA/1 - 2025-03-26-19-31 GIT.md",
-                "mode": "source",
-                "source": false
+                "file": "06 - Imagens/Pasted Image 20250421161326_661.png"
               },
-              "icon": "lucide-file",
-              "title": "1 - 2025-03-26-19-31 GIT"
+              "icon": "lucide-image",
+              "title": "Pasted Image 20250421161326_661"
             }
           }
         ]
@@ -174,22 +172,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "823bc122d7b5f1eb",
+  "active": "48d3dc34189c820d",
   "lastOpenFiles": [
-    "01 - ÍNDICES/1 - TECNOLOGIAS.md",
     "Excalidraw/FAC.md",
-    "06 - Imagens/Pasted Image 20250420181530_948.png",
-    "06 - Imagens/Pasted Image 20250420181435_765.png",
-    "06 - Imagens/Pasted Image 20250420181326_709.png",
-    "06 - Imagens/Pasted Image 20250420180920_414.png",
-    "06 - Imagens/Pasted Image 20250420180703_869.png",
-    "06 - Imagens/Pasted Image 20250420180638_118.png",
-    "06 - Imagens/Pasted Image 20250420180613_255.png",
-    "06 - Imagens/Pasted Image 20250420180522_279.png",
-    "06 - Imagens/Pasted Image 20250420180449_709.png",
+    "06 - Imagens/Pasted Image 20250421223503_126.png",
+    "06 - Imagens/Pasted Image 20250421222551_347.png",
+    "06 - Imagens/Pasted Image 20250421222342_415.png",
+    "06 - Imagens/Pasted Image 20250421215804_880.png",
+    "06 - Imagens/Pasted Image 20250421214921_224.png",
+    "06 - Imagens/Pasted Image 20250421213133_396.png",
+    "06 - Imagens/Pasted Image 20250421191640_896.png",
+    "06 - Imagens/Pasted Image 20250421191441_998.png",
+    "06 - Imagens/Pasted Image 20250421164041_249.png",
+    "06 - Imagens/Pasted Image 20250421164041_238.png",
+    "04 - TASK/21-04-2025.md",
     "04 - TASK/20-04-2025.md",
-    "06 - Imagens/Pasted image 20250414154102.png",
     "README.md",
+    "02 - REFERÊNCIA/1 - 2025-03-26-19-31 GIT.md",
+    "01 - ÍNDICES/1 - TECNOLOGIAS.md",
     "03 - PERMANENTES/6- 2025-04-20-12-07 - RESUMO BD1.md",
     "03 - PERMANENTES/2 - 2025-03-24-21-59 - EXEMPLO (MODIFICAR DPS).md",
     "02 - REFERÊNCIA/6 - 2025-04-14-12-45 Tópicos de revisão até aula 09.md",
@@ -204,14 +204,12 @@
     "Excalidraw",
     "01 - ÍNDICES/7 - INTERAÇÃO HUMANO COMPUTADOR.md",
     "01 - ÍNDICES/0 - NOME-ASSUNTO - TEMPLATE.md",
-    "02 - REFERÊNCIA/1 - 2025-03-26-19-31 GIT.md",
     "04 - TASK/14-04-2025.md",
     "02 - REFERÊNCIA/6 - 2025-03-31-18-25 MER & DER.md",
     "01 - ÍNDICES/6 - SISTEMAS DE BANCOS DE DADOS.md",
     "02 - REFERÊNCIA/5 - 2025-04-13-15-39 Estudo individual.md",
     "02 - REFERÊNCIA/5 - 2025-03-26-23-48 Aula 00.md",
     "01 - ÍNDICES/5 - TESTES DE SOFTWARE.md",
-    "04 - TASK/13-04-2025.md",
     "06 - Imagens",
     "05 - Livros/Testes de Software",
     "05 - Livros/Metodologias de Estudo/Peter C. Brown_ Henry L. Roediger III_ Mark A. McDaniel - Fixe o conhecimento_ a ciência da aprendizagem bem-sucedida-Penso Editora _ Grupo A (2018) (1) 1.epub",
