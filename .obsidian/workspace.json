@@ -11,15 +11,28 @@
             "id": "ceafde69a1a018b0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "06 - Imagens/Pasted Image 20250421161326_661.png"
+                "file": "Excalidraw/FAC.md"
               },
-              "icon": "lucide-image",
-              "title": "Pasted Image 20250421161326_661"
+              "icon": "excalidraw-icon",
+              "title": "FAC"
+            }
+          },
+          {
+            "id": "006ad62833667c82",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/FAC.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "FAC"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,19 +185,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "48d3dc34189c820d",
+  "active": "006ad62833667c82",
   "lastOpenFiles": [
+    "06 - Imagens/Pasted Image 20250425123826_337.png",
+    "06 - Imagens/Pasted Image 20250425125329_128.png",
+    "06 - Imagens/Pasted Image 20250425124138_787.png",
+    "Pasted Image 20250425125329_128.png",
+    "Pasted Image 20250425124138_787.png",
+    "Pasted Image 20250425123826_337.png",
+    "04 - TASK/25-04-2025.md",
+    "04 - TASK/22-04-2025.md",
+    "06 - Imagens/Pasted Image 20250421161326_661.png",
     "Excalidraw/FAC.md",
     "06 - Imagens/Pasted Image 20250421223503_126.png",
     "06 - Imagens/Pasted Image 20250421222551_347.png",
     "06 - Imagens/Pasted Image 20250421222342_415.png",
     "06 - Imagens/Pasted Image 20250421215804_880.png",
-    "06 - Imagens/Pasted Image 20250421214921_224.png",
-    "06 - Imagens/Pasted Image 20250421213133_396.png",
-    "06 - Imagens/Pasted Image 20250421191640_896.png",
-    "06 - Imagens/Pasted Image 20250421191441_998.png",
-    "06 - Imagens/Pasted Image 20250421164041_249.png",
-    "06 - Imagens/Pasted Image 20250421164041_238.png",
     "04 - TASK/21-04-2025.md",
     "04 - TASK/20-04-2025.md",
     "README.md",
@@ -208,8 +224,6 @@
     "02 - REFERÊNCIA/6 - 2025-03-31-18-25 MER & DER.md",
     "01 - ÍNDICES/6 - SISTEMAS DE BANCOS DE DADOS.md",
     "02 - REFERÊNCIA/5 - 2025-04-13-15-39 Estudo individual.md",
-    "02 - REFERÊNCIA/5 - 2025-03-26-23-48 Aula 00.md",
-    "01 - ÍNDICES/5 - TESTES DE SOFTWARE.md",
     "06 - Imagens",
     "05 - Livros/Testes de Software",
     "05 - Livros/Metodologias de Estudo/Peter C. Brown_ Henry L. Roediger III_ Mark A. McDaniel - Fixe o conhecimento_ a ciência da aprendizagem bem-sucedida-Penso Editora _ Grupo A (2018) (1) 1.epub",
