@@ -4,23 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "6afb7fc39e5b4771",
+        "id": "a0c12242998b46b2",
         "type": "tabs",
         "children": [
           {
-            "id": "ceafde69a1a018b0",
+            "id": "877bcb4523f88f50",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Excalidraw/FAC.md"
+                "file": "06 - Imagens/WhatsApp Image 2025-04-25 at 09.46.25.jpeg"
               },
-              "icon": "excalidraw-icon",
-              "title": "FAC"
+              "icon": "lucide-image",
+              "title": "WhatsApp Image 2025-04-25 at 09.46.25"
             }
           },
           {
-            "id": "006ad62833667c82",
+            "id": "643ba2c9f29c0b2e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "06 - Imagens/Pasted Image 20250427112829_141.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted Image 20250427112829_141"
+            }
+          },
+          {
+            "id": "4481c0a6ff24dcb1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "06 - Imagens/WhatsApp Image 2025-04-25 at 09.46.25.jpeg"
+              },
+              "icon": "lucide-image",
+              "title": "WhatsApp Image 2025-04-25 at 09.46.25"
+            }
+          },
+          {
+            "id": "e04a225d408101db",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -32,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -185,29 +209,33 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "006ad62833667c82",
+  "active": "e04a225d408101db",
   "lastOpenFiles": [
+    "06 - Imagens/Pasted Image 20250427112829_141.png",
+    "06 - Imagens/WhatsApp Image 2025-04-25 at 09.46.25.jpeg",
+    "README.md",
+    "Excalidraw/FAC.md",
+    "Excalidraw/Drawing 2025-04-27 18.01.21.excalidraw.md",
+    "04 - TASK/27-04-2025.md",
+    "06 - Imagens/WhatsApp Image 2025-04-25 at 09.46.24 (1).jpeg",
+    "06 - Imagens/WhatsApp Image 2025-04-25 at 09.46.25 (1).jpeg",
+    "06 - Imagens/WhatsApp Image 2025-04-25 at 09.46.24 (2).jpeg",
+    "03 - PERMANENTES/6- 2025-04-20-12-07 - RESUMO BD1.md",
+    "03 - PERMANENTES/2 - 2025-03-24-21-59 - EXEMPLO (MODIFICAR DPS).md",
+    "04 - TASK/31-03-2025.md",
+    "04 - TASK/01-04-2025.md",
+    "04 - TASK/26-04-2025.md",
     "06 - Imagens/Pasted Image 20250425123826_337.png",
     "06 - Imagens/Pasted Image 20250425125329_128.png",
     "06 - Imagens/Pasted Image 20250425124138_787.png",
     "Pasted Image 20250425125329_128.png",
     "Pasted Image 20250425124138_787.png",
-    "Pasted Image 20250425123826_337.png",
     "04 - TASK/25-04-2025.md",
     "04 - TASK/22-04-2025.md",
-    "06 - Imagens/Pasted Image 20250421161326_661.png",
-    "Excalidraw/FAC.md",
-    "06 - Imagens/Pasted Image 20250421223503_126.png",
-    "06 - Imagens/Pasted Image 20250421222551_347.png",
-    "06 - Imagens/Pasted Image 20250421222342_415.png",
-    "06 - Imagens/Pasted Image 20250421215804_880.png",
     "04 - TASK/21-04-2025.md",
     "04 - TASK/20-04-2025.md",
-    "README.md",
     "02 - REFERÊNCIA/1 - 2025-03-26-19-31 GIT.md",
     "01 - ÍNDICES/1 - TECNOLOGIAS.md",
-    "03 - PERMANENTES/6- 2025-04-20-12-07 - RESUMO BD1.md",
-    "03 - PERMANENTES/2 - 2025-03-24-21-59 - EXEMPLO (MODIFICAR DPS).md",
     "02 - REFERÊNCIA/6 - 2025-04-14-12-45 Tópicos de revisão até aula 09.md",
     "02 - REFERÊNCIA/7 - 2025-03-31-15-37 ATi 2.md",
     "02 - REFERÊNCIA/8 - 2025-04-17-15-18 - REVISÃO TED PARTE 1.md",
@@ -219,11 +247,6 @@
     "02 - REFERÊNCIA/0 - XXXX-XX-XX-XX-XX TEMPLATE.md",
     "Excalidraw",
     "01 - ÍNDICES/7 - INTERAÇÃO HUMANO COMPUTADOR.md",
-    "01 - ÍNDICES/0 - NOME-ASSUNTO - TEMPLATE.md",
-    "04 - TASK/14-04-2025.md",
-    "02 - REFERÊNCIA/6 - 2025-03-31-18-25 MER & DER.md",
-    "01 - ÍNDICES/6 - SISTEMAS DE BANCOS DE DADOS.md",
-    "02 - REFERÊNCIA/5 - 2025-04-13-15-39 Estudo individual.md",
     "06 - Imagens",
     "05 - Livros/Testes de Software",
     "05 - Livros/Metodologias de Estudo/Peter C. Brown_ Henry L. Roediger III_ Mark A. McDaniel - Fixe o conhecimento_ a ciência da aprendizagem bem-sucedida-Penso Editora _ Grupo A (2018) (1) 1.epub",
